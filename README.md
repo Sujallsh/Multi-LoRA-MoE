@@ -1,4 +1,4 @@
-# Task Two: Multi-LoRA for Multi-Task Learning
+# Multi-LoRA for Multi-Task Learning
 
 This project implements a CPU-friendly Multi-LoRA Mixture-of-Experts classifier for three open-source NLP tasks. It uses a frozen tiny BERT encoder, one low-rank feature adapter per task, a sparse learned router, and task-specific classification heads.
 
